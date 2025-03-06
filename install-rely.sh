@@ -1,0 +1,1 @@
+sudo apt install meson ninja-build libegl1-mesa-dev libgl1-mesa-dev
